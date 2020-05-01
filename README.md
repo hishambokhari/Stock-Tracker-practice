@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finance tracker app from the Complete Ruby on Rails Developer course.
 
-Things you may want to cover:
+Story:
 
-* Ruby version
+- You are a rising star in the start-up.
+- CEO came up with an idea for an app which will be presented in an investors gathering in a few days.
+- With your experience of building a few web applications already, you've been tasked with building this app within the next 2-3 days.
 
-* System dependencies
+Requirements :
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Authentication system, users can sign-up, edit their profile, login/logout
+- Users can track stocks, up to 10 per user. Their profile page will display all the stocks they are tracking with their current price.
+- Users can search for stocks, add and remove stocks from their portfolio 
+- Users can look for friends, or other users of the app, by name or email
+- Users can view the portfolio of stocks their friends are tracking for investing ideas
+- The app must be mobile friendly, so styling has to be responsive.
