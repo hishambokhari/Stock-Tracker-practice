@@ -16,3 +16,9 @@ Requirements :
 - Users can look for friends, or other users of the app, by name or email
 - Users can view the portfolio of stocks their friends are tracking for investing ideas
 - The app must be mobile friendly, so styling has to be responsive.
+
+Task: Design and Stock Model
+
+- Attributes name, ticker_symbol and price
+- Automate looking up stock
+- Automate API key insertion
